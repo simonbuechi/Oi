@@ -3,8 +3,8 @@
 /************/
 /*** Font ***/
 /************/
-@import url(https://fonts.googleapis.com/css?family=Oxygen);
-$_font-family: 'Oxygen', georgia, '微軟正黑體', 'sans-serif';
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+$_font-family: 'Roboto', Arial, 'sans-serif';
 $_font-size: 48px;
 
 
@@ -38,13 +38,13 @@ body{
   line-height: 1;
   font-family: $_font-family;
   min-height: 740px;
-  background: rgb(215, 215, 215);
-  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(155, 165, 175)));
-  background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
-  background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
-  background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
-  background:      -o-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
-  background:         radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
+  background: #000;
+//  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(155, 165, 175)));
+//  background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
+//  background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
+//  background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
+//  background:      -o-radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
+//  background:         radial-gradient(rgb(240, 240, 240), rgb(155, 165, 175));
 }
 
 ol, ul {
@@ -156,15 +156,12 @@ sup {top: -.5em;}
   width: 1000px;
   height: 700px;
   padding: 40px 60px;
-
-  background-color: white;
+//  background-color: white;
   border: 1px solid rgba(0, 0, 0, .3);
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-  color: rgb(102, 102, 102);
+  color: #CFD8DC;
   text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
-
   $_font-size: 35px;
   font-size: $_font-size;
   letter-spacing: -1px;
