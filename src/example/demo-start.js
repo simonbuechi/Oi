@@ -20,7 +20,7 @@ let temp = [
   {
     "id": "start-1",
     "slide": true,
-    "content": "<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p style=\"text-align: center;\">你正在準備這種<strong>傳統式</strong>投影片嗎？</p>",
+    "content": "<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p style=\"text-align: center;\">Simonstest</p>",
     "data": {
       "x": "-1100",
       "y": -1500,
